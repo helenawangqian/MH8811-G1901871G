@@ -1,0 +1,5 @@
+cd desktop
+mkdir MH8811_02
+touch 'my file'
+cd desktop
+rm -rf MH8811_02

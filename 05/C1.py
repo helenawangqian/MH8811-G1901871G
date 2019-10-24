@@ -85,7 +85,7 @@ print(lst2)
 if lst == lst2: 
     print ("Success!") 
 else : 
-    print ("Fail!")
+    print ("Fail")
 
 
 # In[ ]:
